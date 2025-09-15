@@ -2,8 +2,6 @@
 
 Aspiring Self-taught Machine Learning Engineer  [Man I Wish Everything was Simple]
 
-indrajit.osiris77
-
 ## How to reach me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username) 
