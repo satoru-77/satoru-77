@@ -13,3 +13,12 @@ Aspiring Self-taught Machine Learning Engineer  [Man I Wish Everything was Simpl
 ## My GitHub Statistics
  
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=satoru-77&show_icons=true&theme=tokyonight)
+
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satoru-77&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoru-77&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satoru-77&theme=tokyonight" alt="streak" />
+</p>
