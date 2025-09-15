@@ -13,7 +13,6 @@ Aspiring Self-taught Machine Learning Engineer  [Man I Wish Everything was Simpl
 ## My GitHub Statistics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satoru-77&show_icons=true&theme=tokyonight" alt="stats" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=satoru-77&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoru-77&layout=compact&theme=tokyonight" alt="langs" />
 </p>
